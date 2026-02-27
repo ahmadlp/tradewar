@@ -10,7 +10,7 @@ The dashboard presents the paper's quantitative findings on Nash tariff equilibr
 
 ## Live Demo
 
-[View the dashboard &rarr;](#) <!-- Replace with your hosted URL -->
+[View the dashboard &rarr;](https://ahmadlp.github.io/TariffWar/index.html)
 
 ## Features
 
